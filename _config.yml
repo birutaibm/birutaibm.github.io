@@ -25,7 +25,7 @@ skills:
  - Android
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
+blogfeed: https://ideiabiruta.wordpress.com/feed/
 
 #Work experience is required
 roles:
@@ -43,21 +43,22 @@ roles:
 #Education is required
 education:
  - level: Doutorado (PhD)
-   date: 
+   date: 2016
    subject: Modelagem Estocástica do Labirinto em Cruz Elevado
    school: Universidade de São Paulo
  - level: Mestrado (MSc)
-   date: 
-   subject: Simulação Computacional da Célula Mitral do Bulbo Olfatório
+   date: 2011
+   subject: Programa de computador para simulação de modelos de neurônios: aplicação à célula mitral do bulbo olfatório
    school: Universidade de São Paulo
  - level: Gradução (Bacharel)
-   date: 
+   date: 2007 
    subject: Informática Biomédica
    school: Universidade de São Paulo
 
 #List of interesting Github repo/projects to include - optional
 github:
  - birutaibm/Sunshine
+ - birutaibm/arcade-game
 
 #Stackoverflow flair is optional
 #stackoverflow:
